@@ -1,0 +1,2 @@
+This excercise (presented in my Computer Architecture class) was demonstrating how to encode a jpg file into a wav file.
+NOTE: THIS IS NOT MY CODE! I downloaded it from the creator (lowbyteproductions) and added comments for notes.
